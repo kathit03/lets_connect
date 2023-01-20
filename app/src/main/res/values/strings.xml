@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">lets connect</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="log_in_to_continue">Log in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sing_in">Sing in</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="add_image">Add image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="sign_up">sign up</string>
+    <string name="select_user">select user</string>
+    <string name="todo">TODO</string>
+    <string name="your_message">your message</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="Type_a_message">Type a message</string>
+</resources>
